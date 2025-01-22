@@ -5,7 +5,7 @@ import requests
 
 # Constants
 ASSET_API_URL = "https://cloudasset.googleapis.com/v1"
-PROJECT_ID = "701858774570"  # Replace with your project ID
+PROJECT_ID = "701858774570"  #  project ID
 
 def get_access_token():
     """Fetch an access token using google-auth."""
